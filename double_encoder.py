@@ -1,4 +1,4 @@
-###THE SYNTAX MUST BE --> double_encode(b'<your BASE64 string>') <-- ###
+### SYNTAX  --> double_encode(b'<your BASE64 string>') <-- ###
 ###for example, IF YOU WANT TO DOUBLE ENCODE '<script>':
 #>>>     YOUR SYNTAX SHOULD BE: double_encode(b'<script>')     <<<#
 
