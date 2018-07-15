@@ -6,7 +6,7 @@
 import binascii
 def double_encode(stri):
 	hexin = binascii.hexlify(stri)
-  hexin = str(hexin)[2:].upper()
+  	hexin = str(hexin)[2:].upper()
 	i=0
 	ls=[]
 	while(i < len(hexin)):
